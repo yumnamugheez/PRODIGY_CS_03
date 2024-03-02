@@ -30,7 +30,7 @@ Welcome to the Password Strength Assessment Tool! This tool is designed to asses
 3. **Run the Tool:**
    Execute the Python script to run the Password Strength Assessment Tool:
    ```bash
-   python password_strength_assessment.py
+   python TASK 3.py
    ```
 
 4. **Input Password:**
